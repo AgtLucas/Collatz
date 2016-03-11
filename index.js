@@ -1,7 +1,7 @@
 'use strict'
 
 const CollatzConjecture = number => {
-  var result = []
+  let result = []
 
   // Push the initial value to result's array
   result.push(number)
