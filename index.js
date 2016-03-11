@@ -1,6 +1,6 @@
 'use strict'
 
-function CollatzConjecture (number) {
+const CollatzConjecture = number => {
   var result = []
 
   // Push the initial value to result's array
