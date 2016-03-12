@@ -1,5 +1,3 @@
-'use strict'
-
 const CollatzConjecture = number => {
   let result = []
 
@@ -27,3 +25,5 @@ const CollatzConjecture = number => {
   // ... and its length
   console.log(result.length)
 }
+
+export default CollatzConjecture
